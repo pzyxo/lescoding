@@ -1,0 +1,32 @@
+/* Selektor dengan nama tag */
+h2 {
+    color: blue
+}
+
+/* Selektor dengan class */
+.newClass {
+    background-color: yellow;
+}
+
+/* selektor dengan ID elemen */
+#newID {
+    background: grey;
+}
+
+/* Selektor dengan Atribut */
+input[type=text]{
+    background: yellow;
+}
+
+
+h3, h4, h5, h6 {
+  color: teal;
+}
+
+p {
+    background-color: lightblue;
+    color: darkblue;
+    font-family: monospace;
+    font-size: 25px;
+}
+
