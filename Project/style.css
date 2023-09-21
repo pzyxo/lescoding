@@ -28,6 +28,8 @@ nav {
     padding: 10px;
 }
 
+/* end of row and column */
+
 .perkenalan {
 	background-color:burlywood;
 	margin: 50px;
@@ -57,13 +59,17 @@ nav {
 }
 
 .biodata .header {
-	background-color: lightgreen;
+	background: linear-gradient(90deg, pink 20%, darkblue);
 	border-radius: 20px;
 	color: white;
 }
 
 .biodata h1, .biodata h3 {
 	margin: 5px;
+}
+
+.biodata .tabel {
+	font-family: Calibri;
 }
 
 .biodata .list {
