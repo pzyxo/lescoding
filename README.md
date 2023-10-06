@@ -15,9 +15,9 @@ Atau
 ---
 Klik tiap link di bawah untuk tiap pertemuan saja
 
-* [pertemuan 1](https://download-directory.github.io/?url=https%3A%2F%2Fgithub.com%2Fpzyxo%2Flescoding%2Ftree%2Fmain%2FPertemuan%25201)
-* [pertemuan 2](https://download-directory.github.io/?url=https%3A%2F%2Fgithub.com%2Fpzyxo%2Flescoding%2Ftree%2Fmain%2FPertemuan%25202)
-* [pertemuan 3](https://download-directory.github.io/?url=https%3A%2F%2Fgithub.com%2Fpzyxo%2Flescoding%2Ftree%2Fmain%2FPertemuan%25203)
-* [pertemuan 4](https://download-directory.github.io/?url=https%3A%2F%2Fgithub.com%2Fpzyxo%2Flescoding%2Ftree%2Fmain%2FPertemuan%25204)
-* [pertemuan 5](https://download-directory.github.io/?url=https%3A%2F%2Fgithub.com%2Fpzyxo%2Flescoding%2Ftree%2Fmain%2FPertemuan%25205)
-* [pertemuan 6](https://download-directory.github.io/?url=https%3A%2F%2Fgithub.com%2Fpzyxo%2Flescoding%2Ftree%2Fmain%2FPertemuan%25206)
+* [pertemuan 1](https://download-directory.github.io/?url=https%3A%2F%2Fgithub.com%2Fpzyxo%2Flescoding%2Ftree%2Fmain%2FPertemuan%25201){: target="_blank" rel="nofollow"}
+* [pertemuan 2](https://download-directory.github.io/?url=https%3A%2F%2Fgithub.com%2Fpzyxo%2Flescoding%2Ftree%2Fmain%2FPertemuan%25202){: target="_blank" rel="nofollow"}
+* [pertemuan 3](https://download-directory.github.io/?url=https%3A%2F%2Fgithub.com%2Fpzyxo%2Flescoding%2Ftree%2Fmain%2FPertemuan%25203){: target="_blank" rel="nofollow"}
+* [pertemuan 4](https://download-directory.github.io/?url=https%3A%2F%2Fgithub.com%2Fpzyxo%2Flescoding%2Ftree%2Fmain%2FPertemuan%25204){: target="_blank" rel="nofollow"}
+* [pertemuan 5](https://download-directory.github.io/?url=https%3A%2F%2Fgithub.com%2Fpzyxo%2Flescoding%2Ftree%2Fmain%2FPertemuan%25205){: target="_blank" rel="nofollow"}
+* [pertemuan 6](https://download-directory.github.io/?url=https%3A%2F%2Fgithub.com%2Fpzyxo%2Flescoding%2Ftree%2Fmain%2FPertemuan%25206){: target="_blank" rel="nofollow"}
