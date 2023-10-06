@@ -12,7 +12,7 @@ Atau jika ingin project dilaksanakan tiap pertemuan, dapat menggunakan acuan com
 
 ![Download](https://github.com/download-directory/download-directory.github.io/raw/main/logo.svg) Download
 ===
-Kalian bisa mendownload langsung semua file nya dengan cara klik link [ini](https://github.com/pzyxo/lescoding/archive/refs/heads/main.zip)
+Kalian bisa mendownload langsung semua file nya dengan cara klik link [`ini`](https://github.com/pzyxo/lescoding/archive/refs/heads/main.zip)
 
 Atau
 ---
