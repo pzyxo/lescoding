@@ -1,5 +1,5 @@
-Ini adalah repository yang berisi materi les coding web html & css
-==================================================================
+Pendahuluan
+===
 
 Isi repository ini gratis untuk digunakan, silahkan gunakan untuk mengajar atau belajar. Mohon maaf jika masih ada salah kata atau materi yang sulit dimengerti. 
 Materi dibagi tiap pertemuan, yang berisi file ppt dan project tiap pertemuan.
