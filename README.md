@@ -26,9 +26,9 @@ Atau
 
 ### Klik tiap link di bawah untuk powerpoint/slides tiap pertemuan saja
 * [Pertemuan 1](https://github.com/pzyxo/lescoding/raw/main/Pertemuan%201.pptx)
-* [Pertemuan 1](https://github.com/pzyxo/lescoding/raw/main/Pertemuan%202.pptx)
-* [Pertemuan 1](https://github.com/pzyxo/lescoding/raw/main/Pertemuan%203%20-%20CSS.pptx)
-* [Pertemuan 1](https://github.com/pzyxo/lescoding/raw/main/Pertemuan%204%20-%20Table.pptx)
-* [Pertemuan 1](https://github.com/pzyxo/lescoding/raw/main/Pertemuan%205%20-%20CSS%20#2.pptx)
-* [Pertemuan 1](https://github.com/pzyxo/lescoding/raw/main/Pertemuan%201%20-%20List.pptx)
+* [Pertemuan 2](https://github.com/pzyxo/lescoding/raw/main/Pertemuan%202.pptx)
+* [Pertemuan 3 - CSS](https://github.com/pzyxo/lescoding/raw/main/Pertemuan%203%20-%20CSS.pptx)
+* [Pertemuan 4 - Table](https://github.com/pzyxo/lescoding/raw/main/Pertemuan%204%20-%20Table.pptx)
+* [Pertemuan 5 - CSS #2](https://github.com/pzyxo/lescoding/raw/main/Pertemuan%205%20-%20CSS%20#2.pptx)
+* [Pertemuan 6 - List](https://github.com/pzyxo/lescoding/raw/main/Pertemuan%201%20-%20List.pptx)
 * akan terus diupdate
