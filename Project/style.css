@@ -78,8 +78,23 @@ nav {
 
 .kontak {
 	background-color: aquamarine;
+	padding-bottom: 25px;
+	margin: 50px;
+	border-radius: 15px;
+	border: 2px red solid;
+	height: 200px;
 }
 
+.kontak b {
+	background: linear-gradient(90deg, red 50%, blue);
+	-webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+	font-size: 35px;
+}
+
+.kontak img:hover {
+	width: 125px;
+}
 
 .tentang {
 	background-color: orangered;
@@ -116,7 +131,7 @@ nav {
 }
 
 .tentang .link img:hover {
-	border:5px solid black;
-	width: 140px;
+	border:3px solid black;
+	width: 144px;
 }
 
