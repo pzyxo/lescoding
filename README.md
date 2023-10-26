@@ -33,7 +33,8 @@ Atau
 * [Pertemuan 3 - CSS](https://github.com/pzyxo/lescoding/raw/main/Pertemuan%203%20-%20CSS.pptx)
 * [Pertemuan 4 - Table](https://github.com/pzyxo/lescoding/raw/main/Pertemuan%204%20-%20Table.pptx)
 * [Pertemuan 5 - CSS #2](https://github.com/pzyxo/lescoding/raw/main/Pertemuan%205%20-%20CSS%20#2.pptx)
-* [Pertemuan 6 - List](https://github.com/pzyxo/lescoding/raw/main/Pertemuan%201%20-%20List.pptx)
+* [Pertemuan 6 - List](https://github.com/pzyxo/lescoding/raw/main/Pertemuan%206%20-%20List.pptx)
+* [Pertemuan 7 - Link](https://github.com/pzyxo/lescoding/raw/main/Pertemuan%207%20-%20Link.pptx)
 * akan terus diupdate
 
 

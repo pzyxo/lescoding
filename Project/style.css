@@ -75,3 +75,48 @@ nav {
 .biodata .list {
 	padding-left: 150px;
 }
+
+.kontak {
+	background-color: aquamarine;
+}
+
+
+.tentang {
+	background-color: orangered;
+	padding: 15px;
+	margin: 50px;
+	border-radius: 15px;
+}
+
+.tentang .header {
+	font-size: 50px;
+	color: white;
+}
+
+.tentang .body {
+	background-color: white;
+	padding: 2px;
+	margin: 15px -15px -25px -15px;
+	border-radius: 10px;
+}
+
+.tentang .body p {
+	font-size: 20px;
+	width: 100%;
+}
+
+.tentang .link {
+	padding: 2px;
+	margin: 15px -25px -15px -25px;
+	border-radius: 10px;
+}
+
+.tentang .link img {
+	width: 150px;
+}
+
+.tentang .link img:hover {
+	border:5px solid black;
+	width: 140px;
+}
+
