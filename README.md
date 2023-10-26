@@ -26,6 +26,7 @@ Atau
 * [Pertemuan 6](https://download-directory.github.io/?url=https%3A%2F%2Fgithub.com%2Fpzyxo%2Flescoding%2Ftree%2Fmain%2FPertemuan%25206)
 * [Pertemuan 7](https://download-directory.github.io/?url=https%3A%2F%2Fgithub.com%2Fpzyxo%2Flescoding%2Ftree%2Fmain%2FPertemuan%25207)
 * [Project](https://download-directory.github.io/?url=https%3A%2F%2Fgithub.com%2Fpzyxo%2Flescoding%2Ftree%2Fmain%2FProject)
+* [Project Javascript](https://download-directory.github.io/?url=https%3A%2F%2Fgithub.com%2Fpzyxo%2Flescoding%2Ftree%2Fmain%2FProject%20-%20Javascript)
 * akan terus diupdate
 
 ### Klik tiap link di bawah untuk powerpoint/slides tiap pertemuan saja
