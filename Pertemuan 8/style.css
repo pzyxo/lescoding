@@ -74,6 +74,6 @@ html {
 }
 
 .border-right {
-    border-right: 2px double blue;
+    border-right: 15px double blue;
     width: 50%;
 }
