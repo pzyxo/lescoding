@@ -25,6 +25,7 @@ Atau
 * [Pertemuan 5](https://download-directory.github.io/?url=https%3A%2F%2Fgithub.com%2Fpzyxo%2Flescoding%2Ftree%2Fmain%2FPertemuan%25205)
 * [Pertemuan 6](https://download-directory.github.io/?url=https%3A%2F%2Fgithub.com%2Fpzyxo%2Flescoding%2Ftree%2Fmain%2FPertemuan%25206)
 * [Pertemuan 7](https://download-directory.github.io/?url=https%3A%2F%2Fgithub.com%2Fpzyxo%2Flescoding%2Ftree%2Fmain%2FPertemuan%25207)
+* [Pertemuan 8](https://download-directory.github.io/?url=https%3A%2F%2Fgithub.com%2Fpzyxo%2Flescoding%2Ftree%2Fmain%2FPertemuan%25208)
 * [Project](https://download-directory.github.io/?url=https%3A%2F%2Fgithub.com%2Fpzyxo%2Flescoding%2Ftree%2Fmain%2FProject)
 * [Project Javascript](https://download-directory.github.io/?url=https%3A%2F%2Fgithub.com%2Fpzyxo%2Flescoding%2Ftree%2Fmain%2FProject%20-%20Javascript)
 * akan terus diupdate
@@ -37,6 +38,7 @@ Atau
 * [Pertemuan 5 - CSS #2](https://github.com/pzyxo/lescoding/raw/main/Pertemuan%205%20-%20CSS%20#2.pptx)
 * [Pertemuan 6 - List](https://github.com/pzyxo/lescoding/raw/main/Pertemuan%206%20-%20List.pptx)
 * [Pertemuan 7 - Link](https://github.com/pzyxo/lescoding/raw/main/Pertemuan%207%20-%20Link.pptx)
+* [Pertemuan 8 - CSS #3](https://github.com/pzyxo/lescoding/raw/main/Pertemuan%208%20-%20CSS%20#3.pptx)
 * akan terus diupdate
 
 
