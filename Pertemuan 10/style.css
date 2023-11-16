@@ -1,0 +1,27 @@
+h2 {
+    text-shadow: 3px 2px 1px grey;
+    font-size: 40px;
+}
+
+.kotak {
+    box-shadow: 3px 2px 5px red;
+    background: grey;
+    width: 350px;
+    height: 150px;
+    /* color: white;
+    font-size: 20px;
+    padding: 10px;
+    text-align: center; */
+}
+
+.lingkaran {
+    box-shadow: inset 3px 2px 5px greenyellow;
+    border-radius: 100%;
+    background: grey;
+    color: white;
+    width: 100px;
+    height: 100px;
+    font-size: 20px;
+    padding: 20px;
+    text-align: center;
+}
