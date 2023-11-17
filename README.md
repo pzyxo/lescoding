@@ -43,6 +43,7 @@ Atau
 * [Pertemuan 8 - CSS #3](https://github.com/pzyxo/lescoding/raw/main/Pertemuan%208%20-%20CSS%20%233.pptx)
 * [Pertemuan 9 - CSS #4](https://github.com/pzyxo/lescoding/raw/main/Pertemuan%209%20-%20CSS%20%234.pptx)
 * [Pertemuan 10 - CSS #5](https://github.com/pzyxo/lescoding/raw/main/Pertemuan%2010%20-%20CSS%20%235.pptx)
+* [Pertemuan 10 - Github](https://github.com/pzyxo/lescoding/raw/main/Pertemuan%2010%20-%20Github.pptx)
 * akan terus diupdate
 
 
