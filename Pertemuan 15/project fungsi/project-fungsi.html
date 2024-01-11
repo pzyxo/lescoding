@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<title>Project Fungsi</title>
+</head>
+<body align=center>
+	<script type="text/javascript">
+		var i = 1;
+		var dark = false;
+		function tampilkanNama(){
+			alert("Hallo, kamu sudah klik saya");
+		}
+
+		function ubahWarna(){
+			if(dark == false){
+				bg = 'black';
+				text = 'white';
+				dark = true;
+			} else {
+				bg = 'white';
+				text = 'black';
+				dark = false;
+			}
+			document.body.style.background = bg;
+			document.body.style.color = text;
+		}
+
+		function warna(warna){
+			document.body.style.background = warna;
+			document.body.style.color = 'black';
+		}
+	</script>
+
+	<div style="padding: 20%;">
+		<button href="#" onclick="tampilkanNama()">Klik aku</button>
+		<button href="#" onclick="ubahWarna()" style="background-color: black;color: white">Ubah warna hitam/putih</button>
+		<button href="#" onclick="warna('red')" style="background-color: red;">Merah</button>
+		<button href="#" onclick="warna('yellow')" style="background-color: yellow;">Kuning</button>
+		<button href="#" onclick="warna('green')" style="background-color: green;">Hijau</button>
+	</div>
+	
+</body>
+</html>

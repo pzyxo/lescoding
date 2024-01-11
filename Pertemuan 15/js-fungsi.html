@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<title>Deklarasi Fungsi</title>
+</head>
+<body>
+	<script type="text/javascript">
+		//deklarasi fungsi dengan menggunakan 4 cara
+		function namaFungsi(){
+			console.log("Fungsi Biasa");
+		}
+
+		var fungsiEkspresi = function(){
+			console.log("Fungsi dengan menggunakan ekspresi");
+		}
+
+		var fungsiTandaPanah = () => {
+			console.log("Fungsi dengan menggunakan tanda panah");
+		}
+
+		var fungsiConstructor = new Function('console.log("Fungsi dengan constructor");');
+
+
+		//pemanggilan masing-masing fungsi
+		namaFungsi();
+		fungsiEkspresi();
+		fungsiTandaPanah();
+		fungsiConstructor();
+
+	</script>
+</body>
+</html>

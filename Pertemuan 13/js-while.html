@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<title>Perulangan While</title>
+</head>
+<body>
+	<script type="text/javascript">
+
+		var ulang = confirm("Ulang lagi?");
+		var counter = 0;
+
+		while(ulang){
+			alert("Ini adalah angka " + counter);
+			counter++;
+			ulang = confirm("Ulang lagi?");
+		}
+
+		document.write("Perulangan dilakukan sebanyak " + counter + " kali");
+
+	</script>
+</body>
+</html>
+

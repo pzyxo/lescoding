@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<title>Menghapus Data di Array</title>
+</head>
+<body>
+	<script type="text/javascript">
+		document.write("<h3>Menghapus data di array menggunakan indeks</h3>");
+		
+		var data = ["Biologi", "Matematika", "Fisika", "Kimia"];
+		document.write("<p>" + data + "</p>");
+		data.shift();
+		document.write("<p>" + data + "</p>");
+
+
+		document.write("<h3>Menambahkan data di array menggunakan push</h3>");
+
+		var bahasa = ["C++", "Python", "Java", "C#"];
+		document.write("<p>" + bahasa + "</p>");
+		bahasa.splice(2, 1);
+		document.write("<p>" + bahasa + "</p>");
+	</script>
+</body>
+</html>

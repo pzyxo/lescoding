@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <title>Percabangan if</title>
+</head>
+
+<body>
+    <script>
+        var username = prompt("Masukkan username", "");
+        var password = prompt("Masukkan password", "");
+
+        if (username == "admin") {
+            if (password == "adminganteng") {
+                document.write("<h2>Password benar, silahan melanjutkan</h2>");
+            } else {
+                document.write("<h2>Password salah, silahkan ulangi</h2>")
+            } 
+        } else {
+            document.write("<h2>Username salah, silahkan ulangi</h2>")
+        }
+
+    </script>
+</body>
+
+</html>
+
+    
