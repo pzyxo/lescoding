@@ -29,6 +29,10 @@ Atau
 * [Pertemuan 9](https://download-directory.github.io/?url=https%3A%2F%2Fgithub.com%2Fpzyxo%2Flescoding%2Ftree%2Fmain%2FPertemuan%25209)
 * [Pertemuan 10](https://download-directory.github.io/?url=https%3A%2F%2Fgithub.com%2Fpzyxo%2Flescoding%2Ftree%2Fmain%2FPertemuan%252010)
 * [Pertemuan 11](https://download-directory.github.io/?url=https%3A%2F%2Fgithub.com%2Fpzyxo%2Flescoding%2Ftree%2Fmain%2FPertemuan%252011)
+* [Pertemuan 12](https://download-directory.github.io/?url=https%3A%2F%2Fgithub.com%2Fpzyxo%2Flescoding%2Ftree%2Fmain%2FPertemuan%252012)
+* [Pertemuan 13](https://download-directory.github.io/?url=https%3A%2F%2Fgithub.com%2Fpzyxo%2Flescoding%2Ftree%2Fmain%2FPertemuan%252013)
+* [Pertemuan 14](https://download-directory.github.io/?url=https%3A%2F%2Fgithub.com%2Fpzyxo%2Flescoding%2Ftree%2Fmain%2FPertemuan%252014)
+* [Pertemuan 15](https://download-directory.github.io/?url=https%3A%2F%2Fgithub.com%2Fpzyxo%2Flescoding%2Ftree%2Fmain%2FPertemuan%252015)
 * [Project](https://download-directory.github.io/?url=https%3A%2F%2Fgithub.com%2Fpzyxo%2Flescoding%2Ftree%2Fmain%2FProject)
 * [Project Javascript](https://download-directory.github.io/?url=https%3A%2F%2Fgithub.com%2Fpzyxo%2Flescoding%2Ftree%2Fmain%2FProject%20-%20Javascript)
 * akan terus diupdate
@@ -45,7 +49,12 @@ Atau
 * [Pertemuan 9 - CSS #4](https://github.com/pzyxo/lescoding/raw/main/Pertemuan%209%20-%20CSS%20%234.pptx)
 * [Pertemuan 10 - CSS #5](https://github.com/pzyxo/lescoding/raw/main/Pertemuan%2010%20-%20CSS%20%235.pptx)
 * [Pertemuan 10 - Github](https://github.com/pzyxo/lescoding/raw/main/Pertemuan%2010%20-%20Github.pptx)
-* [Pertemuan 11 - Javascript](https://github.com/pzyxo/lescoding/raw/main/Pertemuan%2011%20-%20Javascript.pptx)
+* [Pertemuan 10 - Javascript](https://github.com/pzyxo/lescoding/raw/main/Pertemuan%2010%20-%20Javascript.pptx)
+* [Pertemuan 11 - Percabangan](https://github.com/pzyxo/lescoding/raw/main/Pertemuan%2011%20-%20Percabangan.pptx)
+* [Pertemuan 12 - Operator](https://github.com/pzyxo/lescoding/raw/main/Pertemuan%2012%20-%20Operator.pptx)
+* [Pertemuan 13 - Perulangan](https://github.com/pzyxo/lescoding/raw/main/Pertemuan%2013%20-%20Perulangan.pptx)
+* [Pertemuan 14 - Array](https://github.com/pzyxo/lescoding/raw/main/Pertemuan%2014%20-%20Array.pptx)
+* [Pertemuan 15 - Fungsi](https://github.com/pzyxo/lescoding/raw/main/Pertemuan%2015%20-%20Fungsi.pptx)
 * akan terus diupdate
 
 
